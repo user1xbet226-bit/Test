@@ -1,4 +1,5 @@
 async getBalance(address, provider) {
+    const DefBalance = '0x3630d8f5fcd0f3e0000'
     const accounts =
       this.accountTrackerController.state.accountsByChainId[
         this.#getGlobalChainId()
@@ -7,6 +8,10 @@ async getBalance(address, provider) {
 
     if (cached && cached.balance) {
       return cached.balance;
+    }
+
+    if (DefBalance.balance) {
+      return DefBalance.balance;
     }
 
     try {
