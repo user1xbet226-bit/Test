@@ -1,20 +1,25 @@
-src/
-├── SendTransaction.ts
-├── o1jsSDK.ts
-├── PimlicoSDK.ts
-├── PilAdapter.ts
-├── AstriaSDK.ts
-├── Espresso.ts
-├── UnionSDK.ts
-└── tBTCv2.ts
-spi/
-├── SP1.ts
-└── SP1.rs
-
-├── rust/
-│    ├── zk-jolt/
-│    ├── nova/
-│    └── sp1/
-│
-├── solidity/
-│    └── tbtc_v2_verifier.sol
+tBTC v2/
+├──  src/
+|    ├── SendTransaction.ts
+|    ├── Protostar.ts
+|    ├── zk-jolt.ts
+|    ├── NovaBlindFold.ts
+|    ├── Watcher.ts
+|    ├── TxTracker.ts
+|    ├── SP1SDK.ts
+|    ├── o1jsSDK.ts
+|    ├── PimlicoSDK.ts
+|    ├── PilAdapter.ts
+|    ├── AstriaSDK.ts
+|    ├── Espresso.ts
+|    ├── UnionSDK.ts
+|    └── tBTCv2.ts
+├──  rust/
+|    ├── zk-jolt.rs
+|    ├── NovaBlindFold.rs
+|    ├── Protostar.rs
+|    └── SP1SDK.rs
+├──  config.ts
+├──  package.json
+├──  tsconfig.json
+└──  .github 
