@@ -6,6 +6,7 @@ tBTC v2/
 |    ├── NovaBlindFold.ts
 |    ├── Watcher.ts
 |    ├── TxTracker.ts
+|    ├── Bundler.ts
 |    ├── SP1SDK.ts
 |    ├── o1jsSDK.ts
 |    ├── PimlicoSDK.ts
