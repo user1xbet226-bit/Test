@@ -1,24 +1,20 @@
 tBTC v2/
 ├──  src/
 |    ├── SendTransaction.ts
-|    ├── Protostar.ts
 |    ├── zk-jolt.ts
 |    ├── NovaBlindFold.ts
 |    ├── Watcher.ts
 |    ├── TxTracker.ts
 |    ├── Bundler.ts
 |    ├── SP1SDK.ts
-|    ├── o1jsSDK.ts
 |    ├── PimlicoSDK.ts
-|    ├── PilAdapter.ts
 |    ├── AstriaSDK.ts
-|    ├── Espresso.ts
+|    ├── EspressoSDK.ts
 |    ├── UnionSDK.ts
 |    └── tBTCv2.ts
 ├──  rust/
 |    ├── zk-jolt.rs
 |    ├── NovaBlindFold.rs
-|    ├── Protostar.rs
 |    └── SP1SDK.rs
 ├──  config.ts
 ├──  package.json
