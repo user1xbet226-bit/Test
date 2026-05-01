@@ -2,7 +2,7 @@ tBTC v2/
 ├──  src/
 |    ├── SendTransaction.ts
 |    ├── NobleSDK.ts
-|    ├── zk-jolt.ts
+|    ├── Bonsai.ts
 |    ├── NovaBlindFold.ts
 |    ├── Watcher.ts
 |    ├── Bundler.ts
@@ -11,11 +11,11 @@ tBTC v2/
 |    ├── AstriaSDK.ts
 |    ├── EspressoSDK.ts
 |    ├── UnionSDK.ts
-|    └── tBTCv2.ts
+|    └── WETH.ts
 ├──  rust/
-|    ├── zk-jolt.rs
+|    ├── Bonsai.rs
 |    ├── NovaBlindFold.rs
-|    └── SP1SDK.rs
+|    └── SP1.rs
 ├──  config.ts
 ├──  package.json
 ├──  tsconfig.json
