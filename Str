@@ -5,7 +5,6 @@ tBTC v2/
 |    ├── zk-jolt.ts
 |    ├── NovaBlindFold.ts
 |    ├── Watcher.ts
-|    ├── TxTracker.ts
 |    ├── Bundler.ts
 |    ├── SP1SDK.ts
 |    ├── PimlicoSDK.ts
