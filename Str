@@ -1,4 +1,4 @@
-tBTC v2/
+WETH/
 ├──  src/
 |    ├── SendTransaction.ts
 |    ├── NobleSDK.ts
@@ -7,12 +7,15 @@ tBTC v2/
 |    ├── Watcher.ts
 |    ├── Bundler.ts
 |    ├── SP1SDK.ts
-|    ├── PimlicoSDK.ts
+|    ├── SponsorWallet.ts
 |    ├── AstriaSDK.ts
 |    ├── EspressoSDK.ts
 |    ├── UnionSDK.ts
 |    └── WETH.ts
 ├──  rust/
+|    ├── main.rs
+|    ├── lib.rs
+|    ├── cargo.toml
 |    ├── Bonsai.rs
 |    ├── NovaBlindFold.rs
 |    └── SP1.rs
