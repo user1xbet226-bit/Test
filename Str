@@ -4,15 +4,14 @@ WETH/
 |    ├── Pipeline.ts
 |    ├── NobleSDK.ts
 |    ├── Watcher.ts
-|    ├── Bundler.ts
-|    ├── OpenGSN.ts
+|    ├── FeeMiddleware.ts
 |    ├── AstriaSDK.ts
 |    ├── EspressoSDK.ts
 |    ├── UnionSDK.ts
 |    └── WETH.ts
 |
 ├──  proof/
-|    ├── NovaBlindfold.ts
+|    ├── NovaBlindFold.ts
 |    ├── Poseidon.ts
 |    ├── SP1SDK.ts
 |    └── Bonsai.ts
