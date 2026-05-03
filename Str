@@ -2,17 +2,20 @@ WETH/
 ├──  src/
 |    ├── SendTransaction.ts
 |    ├── NobleSDK.ts
-|    ├── Bonsai.ts
-|    ├── NovaBlindFold.ts
-     ├── Poseidon.ts
 |    ├── Watcher.ts
 |    ├── Bundler.ts
-|    ├── SP1SDK.ts
 |    ├── OpenGSN.ts
 |    ├── AstriaSDK.ts
 |    ├── EspressoSDK.ts
 |    ├── UnionSDK.ts
 |    └── WETH.ts
+|
+├──  proof/
+|    ├── NovaBlindfold.ts
+|    ├── Poseidon.ts
+|    ├── SP1SDK.ts
+|    └── Bonsai.ts
+|
 ├──  rust/
 |    ├── main.rs
 |    ├── lib.rs
@@ -20,7 +23,8 @@ WETH/
 |    ├── Bonsai.rs
 |    ├── NovaBlindFold.rs
 |    └── SP1.rs
+|
 ├──  config.ts
 ├──  package.json
 ├──  tsconfig.json
-└──  .github 
+└──  .github/workflow/run.yml
