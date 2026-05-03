@@ -12,6 +12,8 @@ WETH/
 |
 ├──  proof/
 |    ├── NovaBlindFold.ts
+     ├── SP1UnionGateway.ts
+     ├── InclusionProof.ts
 |    ├── Poseidon.ts
 |    ├── SP1SDK.ts
 |    └── Bonsai.ts
@@ -22,6 +24,8 @@ WETH/
 |    ├── Cargo.toml
 |    ├── bonsai.rs
 |    ├── nova_blindfold.rs
+     ├── sp1_union_gateway.rs
+     ├── inclusion_proof.rs
 |    └── sp1.rs
 |
 ├──  config.ts
