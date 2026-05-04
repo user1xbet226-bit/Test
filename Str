@@ -1,7 +1,6 @@
 WETH/
 ├──  src/
 |    ├── SendTransaction.ts
-|    ├── Pipeline.ts
 |    ├── NobleSDK.ts
 |    ├── Orchestrator.ts 
 |    ├── SP1UnionGateway.ts
