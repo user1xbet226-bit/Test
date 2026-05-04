@@ -7,14 +7,8 @@ WETH/
 |    ├── Watcher.ts
 |    ├── FeeMiddleware.ts
 |    ├── AstriaSDK.ts
-|    ├── EspressoSDK.ts
 |    ├── UnionSDK.ts
 |    └── WETH.ts
-|
-├──  core/
-|    ├── CanonicalRelayMessage.ts
-|    ├── CanonicalFeePacket.ts
-|    └── CanonicalProof.ts
 |
 ├──  proof/
 |    ├── NovaBlindFold.ts
