@@ -3,8 +3,7 @@ WETH/
 |    ├── SendTransaction.ts
 |    ├── Pipeline.ts
 |    ├── NobleSDK.ts
-     ├── Orchestrator.ts
-     ├── SP1UnionGateway.ts
+|    ├── Orchestrator.ts |    ├── SP1UnionGateway.ts
 |    ├── Watcher.ts
 |    ├── FeeMiddleware.ts
 |    ├── AstriaSDK.ts
