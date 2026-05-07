@@ -3,6 +3,7 @@ ARB/
 |    ├── SendTransaction.ts
 |    ├── NobleSDK.ts
 |    ├── Multicall3.ts
+|    ├── CometRelayer.ts
 |    ├── Watcher.ts
 |    ├── GelatoRelay.ts
 |    └── DelayedIbox.ts
@@ -10,12 +11,7 @@ ARB/
 ├──  proof/
 |    ├── NovaBlindFold.ts
 |    ├── Poseidon.ts
-|    ├── Nullifier.ts
-|    └── Noir.ts
-|
-├──  Noir/
-|    ├── noir.nr
-|    └── main.nr
+|    └── Nullifier.ts
 |
 ├──  rust/
 |    ├── main.rs
