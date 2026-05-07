@@ -17,6 +17,8 @@ ARB/
 |    ├── main.rs
 |    ├── lib.rs
 |    ├── Cargo.toml
+|    ├── nullifier.rs
+|    ├── poseidon.rs
 |    └── nova_blindfold.rs
 |
 ├──  config.ts
